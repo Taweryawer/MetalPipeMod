@@ -1,0 +1,31 @@
+﻿[b]UPDATE 1.0.4[/b]
+
+- Fixed the sound only playing for the metal pipe's user client in multiplayer
+- Now crafting the metal pipe is possible with any iron bar(so, also lead) instead of just the normal iron bar
+
+---------------------------------------------------------------------------------
+
+
+[b]Introducing the Mighty Metal Pipe Weapon Mod[/b]
+
+Step into a world of mechanical marvels with the Mighty Metal Pipe Weapon Mod for Terraria! This extraordinary modification brings forth a stunning addition to your arsenal, a weapon of sheer craftsmanship and brute force - the Metal Pipe Weapon.
+
+[b]Unleash the Power of the Metal Pipe[/b]
+
+The Metal Pipe Weapon is a true testament to engineering prowess and innovation. Crafted from the finest metals and infused with magical energies, this weapon radiates power with every swing. Its robust construction ensures longevity, granting you a steadfast companion in your battles against the forces of evil.
+
+[b]Customizable and Versatile[/b]
+
+The Metal Pipe Weapon mod offers a range of customization options to suit your playstyle. Enhance your weapon with enchantments, allowing you to unleash devastating elemental attacks or bolster your defenses. Unleash a whirlwind of destruction with special pipe attachments, each offering unique abilities and effects.
+
+[b]Embark on Epic Adventures[/b]
+
+Harness the might of the Metal Pipe Weapon and embark on epic adventures across Terraria's vast landscapes. Conquer hordes of menacing creatures, traverse treacherous caverns, and challenge formidable bosses with this remarkable tool at your side. Its unparalleled strength and versatility will make you a force to be reckoned with.
+
+[b]Immerse Yourself in the Craftsmanship[/b]
+
+The Mighty Metal Pipe Weapon Mod introduces breathtaking visuals that complement its impressive functionality. Marvel at the intricate details and masterful textures that bring this weapon to life. Each swing and impact feels weighty and satisfying, immersing you in the world of Terraria like never before.
+
+[b]Crafting the Metal Pipe Weapon[/b]
+
+Unlock the secrets of the Metal Pipe Weapon by acquiring rare materials and mastering the art of metallurgy. Combine the finest ores and magical essences in your crafting table to forge this legendary weapon. As you craft, you'll witness the transformation of raw materials into a masterpiece of destruction. (Craft using 5 iron bars on any anvil)
